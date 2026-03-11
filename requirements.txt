@@ -1,0 +1,5 @@
+anthropic 
+pyautogui 
+pillow 
+mss 
+pynput
